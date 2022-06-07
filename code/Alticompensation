@@ -1,0 +1,1 @@
+Alti = (Ktemp*(1-(pow(pressure/1013.25, 1/5.255))));
